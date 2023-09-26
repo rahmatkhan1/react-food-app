@@ -1,0 +1,29 @@
+.card{
+width: 300px;
+height: 300px;
+display: flex;
+padding: 5px;
+margin: 100px;
+justify-content: center;
+
+}
+.card-one{
+  display: flex;
+  margin-left: 150px;
+  
+}
+.card-two{
+  display: flex;
+  margin-left: 150px;
+  
+}
+.card-three{
+  display: flex;
+  margin-left: 150px;
+  
+}
+
+
+
+
+
