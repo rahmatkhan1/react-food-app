@@ -9,21 +9,41 @@ justify-content: center;
 }
 .card-one{
   display: flex;
-  margin-left: 150px;
+  margin-left: 250px;
   
 }
 .card-two{
   display: flex;
-  margin-left: 150px;
-  
+  margin-left: 250px;  
 }
 .card-three{
   display: flex;
-  margin-left: 150px;
+  margin-left: 250px;
+  margin-bottom: 20px;
   
 }
+.card-img-top{
+  cursor: pointer;
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+  border: 2px solid black;
+}
+.card-img-top:hover{
+  box-shadow:0 8px 16px goldenrod;
+  transition: 1s;
 
-
+}
+#footer-text{
+  font-weight: 100;
+  text-decoration-color: white;
+  background-color:black ;
+  color: white;
+  
+}
+.me-4{
+  padding: 20px;
+  margin-right: 130px;
+}
 
 
 

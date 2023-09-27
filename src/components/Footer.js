@@ -3,7 +3,10 @@ import React from "react";
 function Footer() {
   return (
     <div>
-      <footer className="text-center text-lg-start bg-light text-muted">
+      <footer
+        id="footer-text"
+        className="text-center text-lg-start .bg-dark text-muted"
+      >
         <section className="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
           <div className="me-5 d-none d-lg-block">
             <span>Get connected with us on social networks:</span>

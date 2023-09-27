@@ -3,9 +3,9 @@ import React from "react";
 export default function Header() {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <nav className="navbar navbar-expand-lg navbar-light bg-warning ">
         <a className="navbar-brand" href="/">
-          HungerBox
+          <b>HungerBox</b>
         </a>
         <button
           className="navbar-toggler"
